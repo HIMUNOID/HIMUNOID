@@ -4,7 +4,7 @@
   
 <h4>Language and Tools<h4>
 <img src="https://github-readme-stats.vercel.app/api?username=HIMUNOID&&show_icons=true&title_color=ffbf00&icon_color=858585&text_color=858585&bg_color=111111" alt="HIMUNOID Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HIMUNOID&repo=CRYPTEX" alt="HIMUNOID Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HIMUNOID&repo=HIMUNOID" alt="HIMUNOID Stats"/>
 <br></br>
 <code><img height="20" src="https://raw.githubusercontent.com/PiDPyd/PiDPyd/main/Python.png"></code>
   
