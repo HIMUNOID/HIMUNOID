@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Himunoid Profile, I mainly work on Discord Bots in Python Discord.py<h1>
 <img width="80%" src="https://github.com/PiDPyd/PiDPyd/blob/main/Untitled%20design%20(1).png">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pidpyd&label=Profile%20views&color=ffbf00&style=flat" alt="pidpyd" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pidpyd&label=Profile%20views&color=ffbf00&style=flat" alt="HIMUNOID" /> </p>
   
 <h4>Language and Tools<h4>
 <img src="https://github-readme-stats.vercel.app/api?username=HIMUNOID&&show_icons=true&title_color=ffbf00&icon_color=858585&text_color=858585&bg_color=111111" alt="HIMUNOID Stats"/>
