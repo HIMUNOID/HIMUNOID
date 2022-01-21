@@ -6,7 +6,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=HIMUNOID&&show_icons=true&title_color=ffbf00&icon_color=858585&text_color=858585&bg_color=111111" alt="HIMUNOID Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=HIMUNOID&repo=HIMUNOID" alt="HIMUNOID Stats"/>
 <br></br>
-<code><img height="50" src="https://github.com/HIMUNOID/HIMUNOID/blob/main/4323-blurple-verified-bot-developer.png"></code>
+<code><img height="50" src="https://github.com/HIMUNOID/HIMUNOID/blob/main/4323-blurple-verified-bot-developer.png">
+<code><img height="50" src="https://github.com/HIMUNOID/HIMUNOID/blob/main/CRYPTEX%20(1).png">
+<code><img height="50" src="https://github.com/HIMUNOID/HIMUNOID/blob/main/CRYPTEX%20(1).png">  
+  
+  </code>
   
 <h4>Socials<h4>
 <a href="https://discord.gg/55R2R8GETm"><img height="45" src="https://img.icons8.com/cute-clipart/50/000000/discord-logo.png"/></a>
