@@ -8,7 +8,7 @@
 <br></br>
 <code><img height="50" src="https://github.com/HIMUNOID/HIMUNOID/blob/main/4323-blurple-verified-bot-developer.png">
 <code><img height="50" src="https://github.com/HIMUNOID/HIMUNOID/blob/main/CRYPTEX%20(1).png">
-<code><img height="50" src="https://github.com/HIMUNOID/HIMUNOID/blob/main/CRYPTEX%20(1).png">  
+<code><img height="50" src="https://github.com/HIMUNOID/HIMUNOID/blob/main/4601_github.png">  
   
   </code>
   
