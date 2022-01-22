@@ -28,7 +28,7 @@
 <h4>Socials<h4>
 <a href="https://discord.gg/55R2R8GETm"><img height="45" src="https://img.icons8.com/cute-clipart/50/000000/discord-logo.png"/></a>
 <a href="https://www.youtube.com/channel/UC9-lORtXxTXkh19r8XNPXsg"><img height="45" src="https://img.icons8.com/fluency/50/000000/youtube.png"/></a>
-<a href="https://pid-x.herokuapp.com/"><img height="45" src="https://img.icons8.com/fluency/50/000000/domain.png"/></a>
+<a href="https://bit.ly/Cryptexop"><img height="45" src="https://github.com/HIMUNOID/HIMUNOID/blob/main/CRYPTEX%20(1).png"/></a>
 
 <!---
 PiDPyd/PiDPyd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
