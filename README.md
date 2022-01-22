@@ -7,7 +7,7 @@
   
 <h4>Language and Tools<h4>
 <img src="https://github-readme-stats.vercel.app/api?username=HIMUNOID&&show_icons=true&title_color=ffbf00&icon_color=858585&text_color=858585&bg_color=111111" alt="HIMUNOID Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HIMUNOID&repo=HIMUNOID" alt="HIMUNOID Stats"/>
+<a href="https://bit.ly/Cryptexop"><img height="100" src="https://github.com/HIMUNOID/HIMUNOID/blob/main/CRYPTEX%20(1).png"/></a>
 <br></br>
 <code><img height="50" src="https://github.com/HIMUNOID/HIMUNOID/blob/main/4323-blurple-verified-bot-developer.png">
 <code><img height="50" src="https://github.com/HIMUNOID/HIMUNOID/blob/main/CRYPTEX%20(1).png">
