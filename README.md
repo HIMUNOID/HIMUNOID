@@ -5,6 +5,10 @@
 <a href="https://top.gg/bot/919991790164115468">
   <img src="https://top.gg/api/widget/919991790164115468.svg">
 </a>
+ <h2 align="center">Cryptex Website - https://bit.ly/Cryptexop <h2>   
+    <h2 align="center">Cryptex Top.gg - https://bit.ly/inviteCryptex <h2> 
+      <h2 align="center">Cryptex Vote - https://bit.ly/voteCryptex <h2> 
+      
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HIMUNOID&label=Profile%20views&color=ffbf00&style=flat" alt="HIMUNOID" /> </p>
   
 <h4>Language and Tools<h4>
