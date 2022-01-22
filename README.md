@@ -1,10 +1,11 @@
 <h1 align="center">Welcome to Himunoid Profile, I mainly work on Discord Bots in Python Discord.py<h1>
   <img height="400" src="https://github.com/HIMUNOID/HIMUNOID/blob/main/CRYPTEX%20(3).png">
-  
-<h1 align="center">Cryptex, I have Designed Cryptex in Discord.py <h1>  
-<a href="https://top.gg/bot/919991790164115468">
+  <a href="https://top.gg/bot/919991790164115468">
   <img src="https://top.gg/api/widget/919991790164115468.svg">
 </a>
+  
+<h1 align="center">Cryptex, I have Designed Cryptex in Discord.py <h1>  
+
  <h2 align="center">Cryptex Website - https://bit.ly/Cryptexop <h2>   
     <h2 align="center">Cryptex Top.gg - https://bit.ly/inviteCryptex <h2> 
       <h2 align="center">Cryptex Vote - https://bit.ly/voteCryptex <h2> 
