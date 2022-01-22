@@ -14,7 +14,7 @@
 
   
 <h4>Personal Stats<h4>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HIMUNOID&&show_icons=true&title_color=ffbf00&icon_color=858585&text_color=858585&bg_color=111111" alt="HIMUNOID Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HIMUNOID&&show_icons=true&title_color=ffbf00&icon_color=858585&text_color=858585&bg_color=111111" alt="HIMUNOID Stats"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HIMUNOID&label=Profile%20views&color=ffbf00&style=flat" alt="HIMUNOID" /> </p>  
 <a href="https://www.python.org"><img height="45" src="https://github.com/HIMUNOID/HIMUNOID/blob/main/Python.png"/></a>  
 <br></br>
