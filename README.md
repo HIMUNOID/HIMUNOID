@@ -1,5 +1,7 @@
 <h1 align="center">Welcome to Himunoid Profile, I mainly work on Discord Bots in Python Discord.py<h1>
-<img width="80%" src="https://github.com/HIMUNOID/HIMUNOID/blob/main/CRYPTEX%20(1).png">
+<a href="https://top.gg/bot/919991790164115468">
+  <img src="https://top.gg/api/widget/919991790164115468.svg">
+</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HIMUNOID&label=Profile%20views&color=ffbf00&style=flat" alt="HIMUNOID" /> </p>
   
 <h4>Language and Tools<h4>
