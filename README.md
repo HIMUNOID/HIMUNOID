@@ -19,7 +19,7 @@
 <a href="https://www.python.org"><img height="45" src="https://github.com/HIMUNOID/HIMUNOID/blob/main/Python.png"/></a>  
 <br></br>
 <code><img height="50" src="https://github.com/HIMUNOID/HIMUNOID/blob/main/4323-blurple-verified-bot-developer.png">
-<code><img height="50" src="https://github.com/HIMUNOID/HIMUNOID/blob/main/CRYPTEX%20(1).png">
+<code><img height="50" src="https://cdn.discordapp.com/attachments/913640616712343616/934845286243762186/Discord_Emote_Maker_2.png">
 <code><img height="50" src="https://github.com/HIMUNOID/HIMUNOID/blob/main/4601_github.png">  
   
   
